@@ -1,1 +1,1 @@
-# Data-Analysis-Porojects-ON-SQL
+# Data-Analysis-Porojects-on-SQL
